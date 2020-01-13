@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">PracticaMobils</string>
     <string name="j2maps">J2Maps</string>
+    <string name="inicia">Inicia</string>
 </resources>
